@@ -1,0 +1,33 @@
+/* Website */ 
+ body{
+ color: white;
+background: rgb(0, 0, 0) ;
+font-family: Lucida Sans Unicode;
+text-align:center;
+
+
+}
+h1, h2{
+text-align: center;
+font-weight: normal;
+font-family: Lucida Sans;
+}
+h1{
+font-size:2em;}
+h2{
+font-size:2.5em;}
+p{
+text-align: center;
+font-weight: normal;
+font-family: Comic Sans MS;
+font-size: 1.2em;
+
+.maintext {
+text-align: center;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+font-size:2.5em;
+font-family: Comic Sans MS;
+font-weight: normal;
+}
